@@ -1,6 +1,0 @@
-C:\Users\david\OneDrive\Desktop\B24 Ex04\B24 Ex04 BenCohen 209174549 DavidWeiss 325483006\Ex04.Menus.Events\bin\Debug\Ex04.Menus.Events.dll
-C:\Users\david\OneDrive\Desktop\B24 Ex04\B24 Ex04 BenCohen 209174549 DavidWeiss 325483006\Ex04.Menus.Events\bin\Debug\Ex04.Menus.Events.pdb
-C:\Users\david\OneDrive\Desktop\B24 Ex04\B24 Ex04 BenCohen 209174549 DavidWeiss 325483006\Ex04.Menus.Events\obj\Debug\Ex04.Menus.Events.csproj.AssemblyReference.cache
-C:\Users\david\OneDrive\Desktop\B24 Ex04\B24 Ex04 BenCohen 209174549 DavidWeiss 325483006\Ex04.Menus.Events\obj\Debug\Ex04.Menus.Events.csproj.CoreCompileInputs.cache
-C:\Users\david\OneDrive\Desktop\B24 Ex04\B24 Ex04 BenCohen 209174549 DavidWeiss 325483006\Ex04.Menus.Events\obj\Debug\Ex04.Menus.Events.dll
-C:\Users\david\OneDrive\Desktop\B24 Ex04\B24 Ex04 BenCohen 209174549 DavidWeiss 325483006\Ex04.Menus.Events\obj\Debug\Ex04.Menus.Events.pdb
