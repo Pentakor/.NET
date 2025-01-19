@@ -1,6 +1,0 @@
-C:\Users\david\OneDrive\Desktop\B24 Ex04\B24 Ex04 BenCohen 209174549 DavidWeiss 325483006\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll
-C:\Users\david\OneDrive\Desktop\B24 Ex04\B24 Ex04 BenCohen 209174549 DavidWeiss 325483006\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.pdb
-C:\Users\david\OneDrive\Desktop\B24 Ex04\B24 Ex04 BenCohen 209174549 DavidWeiss 325483006\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.AssemblyReference.cache
-C:\Users\david\OneDrive\Desktop\B24 Ex04\B24 Ex04 BenCohen 209174549 DavidWeiss 325483006\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.CoreCompileInputs.cache
-C:\Users\david\OneDrive\Desktop\B24 Ex04\B24 Ex04 BenCohen 209174549 DavidWeiss 325483006\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.dll
-C:\Users\david\OneDrive\Desktop\B24 Ex04\B24 Ex04 BenCohen 209174549 DavidWeiss 325483006\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.pdb
