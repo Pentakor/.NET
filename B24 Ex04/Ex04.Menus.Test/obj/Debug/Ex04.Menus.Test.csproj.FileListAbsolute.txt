@@ -1,0 +1,13 @@
+C:\Users\david\OneDrive\Desktop\B24 Ex04\B24 Ex04 BenCohen 209174549 DavidWeiss 325483006\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe.config
+C:\Users\david\OneDrive\Desktop\B24 Ex04\B24 Ex04 BenCohen 209174549 DavidWeiss 325483006\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe
+C:\Users\david\OneDrive\Desktop\B24 Ex04\B24 Ex04 BenCohen 209174549 DavidWeiss 325483006\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.pdb
+C:\Users\david\OneDrive\Desktop\B24 Ex04\B24 Ex04 BenCohen 209174549 DavidWeiss 325483006\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Events.dll
+C:\Users\david\OneDrive\Desktop\B24 Ex04\B24 Ex04 BenCohen 209174549 DavidWeiss 325483006\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\david\OneDrive\Desktop\B24 Ex04\B24 Ex04 BenCohen 209174549 DavidWeiss 325483006\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Events.pdb
+C:\Users\david\OneDrive\Desktop\B24 Ex04\B24 Ex04 BenCohen 209174549 DavidWeiss 325483006\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\david\OneDrive\Desktop\B24 Ex04\B24 Ex04 BenCohen 209174549 DavidWeiss 325483006\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Desktop\B24 Ex04\B24 Ex04 BenCohen 209174549 DavidWeiss 325483006\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\david\OneDrive\Desktop\B24 Ex04\B24 Ex04 BenCohen 209174549 DavidWeiss 325483006\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\B24 Ex04\B24 Ex04 BenCohen 209174549 DavidWeiss 325483006\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CopyComplete
+C:\Users\david\OneDrive\Desktop\B24 Ex04\B24 Ex04 BenCohen 209174549 DavidWeiss 325483006\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.exe
+C:\Users\david\OneDrive\Desktop\B24 Ex04\B24 Ex04 BenCohen 209174549 DavidWeiss 325483006\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.pdb
